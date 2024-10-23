@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "esp32_node")(type "Legacy")(uri "C:/Users/drasv/GitHub/esp32-sensor-classes/esp32_node_board/esp32_node_board/esp32_node.lib")(options "")(descr ""))
   (lib (name "esp32-p1-node-board-rescue")(type "KiCad")(uri "${KIPRJMOD}/esp32-p1-node-board-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "my-KiCad-library")(type "KiCad")(uri "${KIPRJMOD}/my-KiCad-library/my-KiCad-library.kicad_sym")(options "")(descr ""))
 )
