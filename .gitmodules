@@ -1,0 +1,3 @@
+[submodule "hardware/esp32-p1-water-node-board/esp32-p1-node-board/my-KiCad-library"]
+	path = hardware/esp32-p1-water-node-board/esp32-p1-node-board/my-KiCad-library
+	url = https://github.com/pe1mew/my-KiCad-library.git
