@@ -3812,7 +3812,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1871e344-8060-4497-b092-0dcef4a50414")
-		(property "Reference" "R6"
+		(property "Reference" "R7"
 			(at 93.218 116.9416 0)
 			(effects
 				(font
@@ -3866,7 +3866,7 @@
 		(instances
 			(project "esp32-p1-node-board"
 				(path "/01cb7ed1-ac17-4d3b-aabe-b728477810cf"
-					(reference "R6")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -3882,7 +3882,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1a381eb5-e71e-48e7-b2a2-50f804041e92")
-		(property "Reference" "D3"
+		(property "Reference" "D1"
 			(at 68.2498 80.1116 90)
 			(effects
 				(font
@@ -3940,7 +3940,7 @@
 		(instances
 			(project "esp32-p1-node-board"
 				(path "/01cb7ed1-ac17-4d3b-aabe-b728477810cf"
-					(reference "D3")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -3955,7 +3955,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "20da3155-c52b-47fa-95bd-7fd0ec188fbd")
-		(property "Reference" "R5"
+		(property "Reference" "R3"
 			(at 110.998 80.1116 0)
 			(effects
 				(font
@@ -4009,7 +4009,7 @@
 		(instances
 			(project "esp32-p1-node-board"
 				(path "/01cb7ed1-ac17-4d3b-aabe-b728477810cf"
-					(reference "R5")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -4094,7 +4094,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3ad1f082-7c65-4e8e-9aa8-815b20edf22b")
-		(property "Reference" "R9"
+		(property "Reference" "R6"
 			(at 74.676 129.794 90)
 			(effects
 				(font
@@ -4148,7 +4148,7 @@
 		(instances
 			(project "esp32-p1-node-board"
 				(path "/01cb7ed1-ac17-4d3b-aabe-b728477810cf"
-					(reference "R9")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -4163,7 +4163,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6b119027-4bf8-467b-9d96-1e157a1b1dc5")
-		(property "Reference" "R3"
+		(property "Reference" "R1"
 			(at 77.978 78.8416 0)
 			(effects
 				(font
@@ -4217,7 +4217,7 @@
 		(instances
 			(project "esp32-p1-node-board"
 				(path "/01cb7ed1-ac17-4d3b-aabe-b728477810cf"
-					(reference "R3")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -4232,7 +4232,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "749b15ec-8063-4180-8726-7d63b6900244")
-		(property "Reference" "R1"
+		(property "Reference" "R5"
 			(at 93.218 157.5816 0)
 			(effects
 				(font
@@ -4286,7 +4286,7 @@
 		(instances
 			(project "esp32-p1-node-board"
 				(path "/01cb7ed1-ac17-4d3b-aabe-b728477810cf"
-					(reference "R1")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -4301,7 +4301,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "784b7dd7-f808-44d9-b161-36ec73749454")
-		(property "Reference" "R7"
+		(property "Reference" "R9"
 			(at 110.998 116.9416 0)
 			(effects
 				(font
@@ -4355,7 +4355,7 @@
 		(instances
 			(project "esp32-p1-node-board"
 				(path "/01cb7ed1-ac17-4d3b-aabe-b728477810cf"
-					(reference "R7")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -4370,7 +4370,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "83b1b6b1-31a1-40b4-9cfe-cfd0735324a3")
-		(property "Reference" "R2"
+		(property "Reference" "R8"
 			(at 110.998 157.5816 0)
 			(effects
 				(font
@@ -4424,7 +4424,7 @@
 		(instances
 			(project "esp32-p1-node-board"
 				(path "/01cb7ed1-ac17-4d3b-aabe-b728477810cf"
-					(reference "R2")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -4509,7 +4509,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97a220d4-1708-4865-ab3a-f873e692aa3d")
-		(property "Reference" "U2"
+		(property "Reference" "U1"
 			(at 210.82 105.41 0)
 			(effects
 				(font
@@ -4633,7 +4633,7 @@
 		(instances
 			(project "esp32-p1-node-board"
 				(path "/01cb7ed1-ac17-4d3b-aabe-b728477810cf"
-					(reference "U2")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -4794,7 +4794,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ced595ec-d7ce-400f-bff9-7a412e04bcc8")
-		(property "Reference" "Q2"
+		(property "Reference" "Q1"
 			(at 100.33 93.98 90)
 			(effects
 				(font
@@ -4852,7 +4852,7 @@
 		(instances
 			(project "esp32-p1-node-board"
 				(path "/01cb7ed1-ac17-4d3b-aabe-b728477810cf"
-					(reference "Q2")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -4868,7 +4868,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d3860d9f-c34e-4cd8-bf97-89ee7110c722")
-		(property "Reference" "D1"
+		(property "Reference" "D3"
 			(at 69.5198 116.9416 90)
 			(effects
 				(font
@@ -4926,7 +4926,7 @@
 		(instances
 			(project "esp32-p1-node-board"
 				(path "/01cb7ed1-ac17-4d3b-aabe-b728477810cf"
-					(reference "D1")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -4942,7 +4942,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e73d0057-72f9-4f57-8604-b844f520503b")
-		(property "Reference" "Q1"
+		(property "Reference" "Q2"
 			(at 100.33 171.45 90)
 			(effects
 				(font
@@ -5000,7 +5000,7 @@
 		(instances
 			(project "esp32-p1-node-board"
 				(path "/01cb7ed1-ac17-4d3b-aabe-b728477810cf"
-					(reference "Q1")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -5015,7 +5015,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eab172a7-49ad-4619-96cf-fe1fdd296a06")
-		(property "Reference" "R8"
+		(property "Reference" "R2"
 			(at 82.296 92.964 90)
 			(effects
 				(font
@@ -5069,7 +5069,7 @@
 		(instances
 			(project "esp32-p1-node-board"
 				(path "/01cb7ed1-ac17-4d3b-aabe-b728477810cf"
-					(reference "R8")
+					(reference "R2")
 					(unit 1)
 				)
 			)
